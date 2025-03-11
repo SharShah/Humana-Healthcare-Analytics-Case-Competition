@@ -35,7 +35,7 @@ The goal was to develop a predictive model that identifies **members unlikely to
  ├── Mays Humana Case Comp Info Call.pdf  # Competition details  
  ├── holdout-feature-engg-manaswi-20241011.ipynb  # Feature engineering & holdout results  
  ├── huamana-case-competition-sharwari-wo_member_conditions_20241010.ipynb  # Model training & feature engineering  
- ├── README.md  # This file  
+
 ```
 
 ## Results  
